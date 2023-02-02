@@ -1,0 +1,3 @@
+C:\Users\mmaye\Documents\GitHub\Clase2Programación\Clase2Programación\obj\Debug\Clase2Programación.csproj.AssemblyReference.cache
+C:\Users\mmaye\Documents\GitHub\Clase2Programación\Clase2Programación\obj\Debug\Clase2Programación.csproj.SuggestedBindingRedirects.cache
+C:\Users\mmaye\Documents\GitHub\Clase2Programación\Clase2Programación\obj\Debug\Clase2Programación.csproj.CoreCompileInputs.cache
