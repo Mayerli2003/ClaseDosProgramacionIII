@@ -52,7 +52,7 @@ namespace Clase2Programación
         int numeroPiernas();
     }
      class Reptil : Animales
-    {
+     {
         public Reptil(String nombre)
         {
             String nombreSerVivo = nombre;
@@ -65,7 +65,7 @@ namespace Clase2Programación
         private string nombreSerVivo;
 
 
-    }
+     }
     class Mamiferos: Animales
     {
         public Mamiferos(String nombre)
@@ -76,15 +76,15 @@ namespace Clase2Programación
        
         public void pensar()
         {
-            Console.WriteLine("Pensamientos basicos instintivos ");
+            Console.WriteLine("Pensamientos basicos e instintivos ");
         }
         public void cuidarCrias()
         {
-            Console.WriteLine("Cuidar de las crias hasta que crescan");
+            Console.WriteLine("Cuidar de las crias hasta que crezcan");
         }
         public override void getNombre()
         {
-            Console.WriteLine("El nombre del sr vivo es:" + nombreSerVivo);
+            Console.WriteLine("El nombre del ser vivo es:" + nombreSerVivo);
         }
         private string nombreSerVivo;
 
@@ -127,8 +127,9 @@ namespace Clase2Programación
         }
         public  void Razonar()
         {
-            Console.WriteLine("Soy capaz de pensar");
+            Console.WriteLine("Soy capaz de razonar");
         }
+        
     }
     class Gorila : Mamiferos, IMamiferosTerrestres
     {
